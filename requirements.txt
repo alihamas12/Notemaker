@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+python-dotenv
+streamlit
+pypdf
+pdfplumber
+python-docx
+faiss-cpu
+streamlit-pdf-viewer
+pydantic
+reportlab
